@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola desde México 👋
+
+Soy Manuel Del Castillo, director de idixit.mx, empresa dedicada al diseño de estrategias digitales de comunicación y contenidos para el ciberespacio.
 
 <!--
 **mdelcast8/mdelcast8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
